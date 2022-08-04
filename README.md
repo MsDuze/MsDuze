@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aisha Duze
 - 👀 I’m Data Science, particularly Python and ML
-- 🌱 I’m currently learning more about python programming, machine learning/deploying models, data engineering activities and big data analytics.
+- 🌱 I’m currently learning more about machine learning/deploying models, data engineering activities and big data analytics.
 - 💞️ I’m looking to collaborate on ML projects.
 - 📫 You can mail me: duzemiss@gmail.com
 
